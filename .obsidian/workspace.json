@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MI IMP.md",
+                "file": "MI/Chapter 1-6 (Darshan PPT link).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MI IMP"
+              "title": "Outline of Chapter 1-6 (Darshan PPT link)"
             }
           },
           {
@@ -162,11 +162,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
