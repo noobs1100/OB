@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,170 +182,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "87569987c5f6178c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4b5c8a89d51c487e",
-        "type": "window",
-        "children": [
-          {
-            "id": "1dcac813e6c345c6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2f7e50229beb4a7d",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Pdf/MI-Mid-1-Syll-24-25-Even.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "MI-Mid-1-Syll-24-25-Even"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1913,
-        "y": -1683,
-        "width": 683,
-        "height": 738,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "119c8dba2754273c",
-        "type": "window",
-        "children": [
-          {
-            "id": "fa58f68d986724fe",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "85d98cb966db3a62",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Pdf/MI Chapterwise.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "MI Chapterwise"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1230,
-        "y": -1683,
-        "width": 683,
-        "height": 738,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "c44717b1e1bbb1db",
-        "type": "window",
-        "children": [
-          {
-            "id": "92f84c570108c9a3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b1f2c5deb4e7ed96",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "Pdf/Screenshot 2025-04-02 at 1.24.44 PM.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "Screenshot 2025-04-02 at 1.24.44 PM"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1913,
-        "y": -1314,
-        "width": 683,
-        "height": 369,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "2f23858182871b10",
-        "type": "window",
-        "children": [
-          {
-            "id": "8b433b8c8b78ad43",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "70ccbe8fe2b8e0d8",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Pdf/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-3_13052022115048AM.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-3_13052022115048AM"
-                }
-              }
-            ]
-          },
-          {
-            "id": "36b11d324a738fa4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "636193bb43474b67",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Pdf/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-2_13052022115025AM.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-2_13052022115025AM"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1579,
-        "y": -1660,
-        "width": 480,
-        "height": 481,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "e5b46fc6021c4e5b",
   "lastOpenFiles": [
+    "Pdf, Material/PPT/Prac file.pdf",
+    "Pdf, Material/PPT/PHOTO-2025-03-19-10-28-20.jpg",
+    "Pdf, Material/PPT/PHOTO-2025-03-19-10-28-19.jpg",
+    "Pdf, Material/PPT/MI-PRAC-1-4.pdf",
+    "Pdf, Material/PPT/Copy of Microprocessors Microcontrollers McGraw Hill by S.K Mandal.pdf",
+    "Pdf, Material/PPT/Copy of Microprocessor Arch with 8085 BY Ramesh S Gaonkar.pdf",
+    "Pdf, Material/PPT/Copy of advanced microprocessors and peripherals by TataMCGrawHill.pdf",
+    "Pdf, Material/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-8_13052022115326AM (1).pdf",
+    "Pdf, Material/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-8_13052022115326AM.pdf",
+    "Pdf, Material/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-7_13052022115255AM.pdf",
+    "Pdf, Material/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-5_13052022115156AM.pdf",
+    "Pdf, Material/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-6_13052022115222AM.pdf",
+    "Pdf, Material/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Introduction-to-Microprocessor_13052022114954AM.pdf",
+    "Pdf, Material/Screenshot 2025-04-02 at 1.24.44 PM.png",
     "Pdf/Screenshot 2025-04-02 at 1.24.44 PM.png",
-    "Pdf/MI-Mid-1-Syll-24-25-Even.pdf",
     "Chapter 1.md",
-    "Pdf/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-2_13052022115025AM.pdf",
-    "Pdf/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-3_13052022115048AM.pdf",
-    "Pdf/MI Chapterwise.pdf",
-    "Pdf/Copy of The 8085 Microprocessor Architecture , Programming and Interfacing by pearson.pdf",
-    "Pdf/Copy of MPMC System Technical Book Pune LQ.pdf",
-    "Pdf/Copy of MPI Technical Book (3160712) LQ.pdf",
     "MI IMP.md",
     "Mi notes.md",
-    "Pdf/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Introduction-to-Microprocessor_13052022114954AM.pdf",
-    "Pdf/PPT/Prac file.pdf",
-    "Pdf/PPT/PHOTO-2025-03-19-10-28-20.jpg",
-    "pendingSync-gdrive-plugin"
+    "Pdf/PPT/PHOTO-2025-03-19-10-28-20.jpg"
   ]
 }
