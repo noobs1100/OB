@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MI/Chapter 1-6 (Darshan PPT link).md",
+                "file": "MI/Mi notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1-6 (Darshan PPT link)"
+              "title": "Mi notes"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MI/Chapter 1-6 (Darshan PPT link).md",
+                "file": "MI/Mi notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 1-6 (Darshan PPT link)"
+              "title": "Outline of Mi notes"
             }
           },
           {
@@ -182,8 +182,8 @@
   },
   "active": "e5b46fc6021c4e5b",
   "lastOpenFiles": [
-    "MI/Mi notes.md",
     "MI/Chapter 1-6 (Darshan PPT link).md",
+    "MI/Mi notes.md",
     "MI/MI IMP.md",
     "Chapter 1.md",
     "MI/Pdf, Material/PPT/PHOTO-2025-03-19-10-28-20.jpg",
