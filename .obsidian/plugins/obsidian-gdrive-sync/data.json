@@ -1,7 +1,7 @@
 {
   "refreshToken": "1//05dziz8x1K2LpCgYIARAAGAUSNwF-L9IrVfgAXZZm1P6fGN_Kx47ymymjNWwexJtmgQUL83MD-b-mOlIUswxKG37-vpfGRIh_X3M",
-  "accessToken": "ya29.a0AeXRPp504QcZ7TYUz__WIpcqRjPPSudRsmg2Ha0I7w0CK623WrAt_v_Mt5dtJn-HaAvejFhbtS5HbvA8JPY_is-NUwro-NZcIzePb7OhdmJrXZ-Hwu8Zbz9rx5RJKyXo3yqEH9aeMV2pRWfDRya_LwbC1trsLaLEhbmhIOSZaCgYKAVMSARISFQHGX2Mi4qTy0JLqXS14oj47OKm1jQ0175",
-  "accessTokenExpiryTime": 1743595096312,
+  "accessToken": "ya29.a0AeXRPp6d_kY7v3QeklFs5PAxUGKvzmFHErw1q7rHRcRHtaZkzVlY3mIbtfQiW3IEQCgihWgjDB_Prz_gYyT3UPdVAreybnSwzKGbFieuvlCk6UOmmABtaZJoPU-KE2KkJlryZLj18RXjNFsk-RWFvgPa9vVVqu2DnebYVSBAoQaCgYKAScSARISFQHGX2Mies9Ju1EW42zNfE8nw4ZDgQ0177",
+  "accessTokenExpiryTime": 1743622279014,
   "refreshAccessTokenURL": "https://red-formula-303406.ue.r.appspot.com/auth/obsidian/refresh-token",
   "fetchRefreshTokenURL": "https://red-formula-303406.ue.r.appspot.com/auth/obsidian",
   "validToken": true,

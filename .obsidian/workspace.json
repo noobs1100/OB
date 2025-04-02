@@ -162,12 +162,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,25 +179,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "60a2868b350a0e06",
+  "active": "ce6efa751aed1724",
   "lastOpenFiles": [
-    "MI/Pdf, Material/8085- Ramesh Gaonkar-PPT.pdf",
+    "MI/Pdf, Material/3160712-2023-1.pdf",
+    "MI/Pdf, Material/8085-memory-intefacing.docx",
+    "MI/Pdf, Material/Ramesh S. Gaonkar-E-book.pdf",
+    "MI/Pdf, Material/MI-Question bank.pdf",
+    "MI/Pdf, Material/MI-lessonplan-TY-2-2023-24-EVEN -Studentcopy.pdf",
+    "MI/Pdf, Material/MI-LABplan-3160712-23-24-EVEN.pdf",
+    "MI/Pdf, Material/MI-3160712.pdf",
+    "MI/Pdf, Material/MI lab File- Index.pdf",
+    "MI/Pdf, Material/instruction-set-of-8085.pdf",
+    "MI/Pdf, Material/3160712-BE-WINTER-2022.pdf",
+    "MI/Pdf, Material/3160712-BE-WINTER-2021.pdf",
     "MI/Chapter 1-6 (Darshan PPT link).md",
     "MI/Mi notes.md",
     "MI/MI IMP.md",
     "Chapter 1.md",
     "MI/Pdf, Material/PPT/PHOTO-2025-03-19-10-28-20.jpg",
-    "MI/Pdf, Material/PPT/Prac file.pdf",
     "MI/Pdf, Material/PPT/PHOTO-2025-03-19-10-28-19.jpg",
-    "MI/Pdf, Material/PPT/MI-PRAC-1-4.pdf",
-    "MI/Pdf, Material/PPT/Copy of Microprocessors Microcontrollers McGraw Hill by S.K Mandal.pdf",
-    "MI/Pdf, Material/PPT/Copy of Microprocessor Arch with 8085 BY Ramesh S Gaonkar.pdf",
-    "MI/Pdf, Material/PPT/Copy of advanced microprocessors and peripherals by TataMCGrawHill.pdf",
-    "MI/Pdf, Material/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-8_13052022115326AM.pdf",
-    "MI/Pdf, Material/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-8_13052022115326AM (1).pdf",
-    "MI/Pdf, Material/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-7_13052022115255AM.pdf",
-    "MI/Pdf, Material/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-6_13052022115222AM.pdf",
-    "MI/Pdf, Material/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-5_13052022115156AM.pdf",
     "MI/Pdf, Material/Screenshot 2025-04-02 at 1.24.44 PM.png",
     "Pdf, Material/PPT/PHOTO-2025-03-19-10-28-20.jpg",
     "Pdf, Material/PPT/PHOTO-2025-03-19-10-28-19.jpg",
