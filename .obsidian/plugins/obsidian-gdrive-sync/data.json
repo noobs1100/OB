@@ -1,0 +1,20 @@
+{
+  "refreshToken": "1//05dziz8x1K2LpCgYIARAAGAUSNwF-L9IrVfgAXZZm1P6fGN_Kx47ymymjNWwexJtmgQUL83MD-b-mOlIUswxKG37-vpfGRIh_X3M",
+  "accessToken": "ya29.a0AeXRPp6oaXye3-JzQRKnFaZvVLsH8w35wKyQZZYK1Ls06GPO6_74USjvUNF2-xQqYRWdgpapZlJHFSz7O_ne3pl8gh6laLVkdshgt_Bs1Lilz2LL-Ky0VoWX1xGHJ5KvFTd8Qh2mPao1p0ZtTYFk68nCYo5lpRKWDPEI_QwWaCgYKAccSARISFQHGX2Miklg9w5nvUjiZrJtFhGpH1g0175",
+  "accessTokenExpiryTime": "",
+  "refreshAccessTokenURL": "https://red-formula-303406.ue.r.appspot.com/auth/obsidian/refresh-token",
+  "fetchRefreshTokenURL": "https://red-formula-303406.ue.r.appspot.com/auth/obsidian",
+  "validToken": true,
+  "vaultId": "",
+  "filesList": [],
+  "vaultInit": false,
+  "rootFolderId": "1TzAUSgdF7CBDKKlEBSx8EqPkyU99GzUo",
+  "refresh": false,
+  "refreshTime": "5",
+  "autoRefreshBinaryFiles": "1",
+  "errorLoggingToFile": false,
+  "verboseLoggingToFile": false,
+  "blacklistPaths": [],
+  "forceFocus": false,
+  "removeMergeNotifsSettings": false
+}
