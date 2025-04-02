@@ -11,10 +11,14 @@
             "id": "e5b46fc6021c4e5b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MI/Chapter 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Chapter 1"
             }
           }
         ]
@@ -178,12 +182,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "60a2868b350a0e06",
+  "active": "e5b46fc6021c4e5b",
   "lastOpenFiles": [
-    "Chapter 1.md",
-    "MI/Mi notes.md",
     "MI/MI IMP.md",
     "MI/Chapter 1.md",
+    "MI/Mi notes.md",
+    "Chapter 1.md",
     "MI/Pdf, Material/PPT/PHOTO-2025-03-19-10-28-20.jpg",
     "MI/Pdf, Material/PPT/Prac file.pdf",
     "MI/Pdf, Material/PPT/PHOTO-2025-03-19-10-28-19.jpg",
