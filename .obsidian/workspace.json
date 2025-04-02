@@ -11,14 +11,10 @@
             "id": "e5b46fc6021c4e5b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Chapter 1"
+              "title": "New tab"
             }
           }
         ]
@@ -182,21 +178,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e5b46fc6021c4e5b",
+  "active": "ce6efa751aed1724",
   "lastOpenFiles": [
-    "Pdf, Material/PPT/Prac file.pdf",
+    "MI/Mi notes.md",
+    "MI/MI IMP.md",
+    "MI/Chapter 1.md",
+    "MI/Pdf, Material/PPT/PHOTO-2025-03-19-10-28-20.jpg",
+    "MI/Pdf, Material/PPT/Prac file.pdf",
+    "MI/Pdf, Material/PPT/PHOTO-2025-03-19-10-28-19.jpg",
+    "MI/Pdf, Material/PPT/MI-PRAC-1-4.pdf",
+    "MI/Pdf, Material/PPT/Copy of Microprocessors Microcontrollers McGraw Hill by S.K Mandal.pdf",
+    "MI/Pdf, Material/PPT/Copy of Microprocessor Arch with 8085 BY Ramesh S Gaonkar.pdf",
+    "MI/Pdf, Material/PPT/Copy of advanced microprocessors and peripherals by TataMCGrawHill.pdf",
+    "MI/Pdf, Material/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-8_13052022115326AM.pdf",
+    "MI/Pdf, Material/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-8_13052022115326AM (1).pdf",
+    "MI/Pdf, Material/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-7_13052022115255AM.pdf",
+    "MI/Pdf, Material/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-6_13052022115222AM.pdf",
+    "MI/Pdf, Material/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-5_13052022115156AM.pdf",
+    "MI/Pdf, Material/Screenshot 2025-04-02 at 1.24.44 PM.png",
     "Pdf, Material/PPT/PHOTO-2025-03-19-10-28-20.jpg",
     "Pdf, Material/PPT/PHOTO-2025-03-19-10-28-19.jpg",
-    "Pdf, Material/PPT/MI-PRAC-1-4.pdf",
-    "Pdf, Material/PPT/Copy of Microprocessors Microcontrollers McGraw Hill by S.K Mandal.pdf",
-    "Pdf, Material/PPT/Copy of Microprocessor Arch with 8085 BY Ramesh S Gaonkar.pdf",
-    "Pdf, Material/PPT/Copy of advanced microprocessors and peripherals by TataMCGrawHill.pdf",
-    "Pdf, Material/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-8_13052022115326AM (1).pdf",
-    "Pdf, Material/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-8_13052022115326AM.pdf",
-    "Pdf, Material/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-7_13052022115255AM.pdf",
-    "Pdf, Material/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-5_13052022115156AM.pdf",
-    "Pdf, Material/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Unit-6_13052022115222AM.pdf",
-    "Pdf, Material/PPT/Copy of 3160712_MPI_GTU_Study_Material_e-Notes_Introduction-to-Microprocessor_13052022114954AM.pdf",
     "Pdf, Material/Screenshot 2025-04-02 at 1.24.44 PM.png",
     "Pdf/Screenshot 2025-04-02 at 1.24.44 PM.png",
     "Chapter 1.md",
